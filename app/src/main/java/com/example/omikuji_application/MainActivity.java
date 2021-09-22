@@ -14,7 +14,9 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
+    // 占うボタン
     Button buttonUranau;
+    // Clearボタン
     Button buttonClear;
     ImageView imageResult;
     Animation animationVisible;
